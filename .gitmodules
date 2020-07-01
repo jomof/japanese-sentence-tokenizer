@@ -1,0 +1,3 @@
+[submodule "spreadsheet-mirror"]
+	path = spreadsheet-mirror
+	url = https://github.com/jomof/spreadsheet-mirror
